@@ -14,6 +14,9 @@ Player.java--representative of each 'player'. Handles the position of the indivi
 Response--handles the move type the player makes using a Random number generator and switch case in a Factory Design Pattern.
 
 Screenshots:
+https://user-images.githubusercontent.com/83840115/117706058-728b3780-b192-11eb-94fc-b69654d7f4b6.png
+
+
 
 Sequence Diagram for RacingGame Method:
 https://user-images.githubusercontent.com/83840115/117706018-669f7580-b192-11eb-8010-dedef7dfc286.png
