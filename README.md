@@ -15,5 +15,11 @@ Response--handles the move type the player makes using a Random number generator
 
 Screenshots:
 
+Sequence Diagram for RacingGame Method:
+https://user-images.githubusercontent.com/83840115/117706018-669f7580-b192-11eb-8010-dedef7dfc286.png
+
+Class Diagram:
+
+
 
 
